@@ -1,4 +1,5 @@
 {
   "name": "Sammlung der Raspberry PI add-on für Home Assistant",
   "url": "https://github.com/LottoExperte/RaspberryPi-Repositories"
+  "maintainer": "Joerg Hoffmann <service@hoffmann-software.de>"
 }
