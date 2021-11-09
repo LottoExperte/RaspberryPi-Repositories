@@ -1,0 +1,11 @@
+---
+channel: stable
+addons:
+  rpi_camera:
+    repository: RaspberryPi-Repositories/rpi_camera
+    target: rpi_camera
+    image: https://brands.home-assistant.io/_/rpi_camera/logo.png{arch}
+  aircast:
+    repository: RaspberryPi-Repositories/rpi_gpio
+    target: rpi_gpio
+    image: https://brands.home-assistant.io/_/rpi_gpio/logo.png{arch}
