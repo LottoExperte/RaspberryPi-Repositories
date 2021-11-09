@@ -11,3 +11,9 @@ cover:
       - relay_pin: 12
         state_pin: 13
         name: "Right door"
+# Example configuration.yaml entry
+switch:
+  - platform: rpi_gpio
+    ports:
+      11: Fan Office
+      12: Light Desk
